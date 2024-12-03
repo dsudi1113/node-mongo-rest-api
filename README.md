@@ -118,6 +118,8 @@ We will use the id field to to delete user
 
 Mongo DB collection entry is deleted
 
+![1733194398066](image/README/1733194398066.png)
+
 ### Project Structure
 
 ```bash
